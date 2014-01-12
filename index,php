@@ -5,6 +5,7 @@
 	</head>
 	<body>
 		<div class="header">
+			<h1><a href="index.php">CodeS:te</a></h1>
 		</div>
 		<div class="body">
 		</div>
